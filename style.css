@@ -1,0 +1,46 @@
+body {
+  font-family: 'Sarabun', Arial, Helvetica, sans-serif;
+  line-height: 1.7;
+  margin: 20px;
+  background-color: #000; /* พื้นหลังดำ */
+  color: #ddd; /* สีข้อความเทาอ่อน */
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #fff; /* สีหัวข้อขาว */
+}
+
+.en {
+  font-style: italic;
+  color: #aaa; /* สีอังกฤษเทาอ่อน */
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+.audio-wrapper {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+audio {
+  width: 100%;
+  max-width: 400px;
+}
+
+.paragraph {
+  margin-bottom: 20px;
+}
